@@ -22,3 +22,8 @@
   
   - [Regresión Logística](./3%20Clasificaci%C3%B3n/logistic_regression.ipynb)
   - [K-NN](./3%20Clasificaci%C3%B3n/knn.ipynb)
+  - [SVM](./3%20Clasificación/svm.ipynb)
+  - [SVM Kernel Gaussiano](./3%20Clasificación/kernel_svm.ipynb)
+  - [Naïve Bayes](./3%20Clasificación/naive_bayes.ipynb)
+  - [Clasificación con Árboles de Decisión](./3%20Clasificaci%C3%B3n/decision_tree_classification.ipynb)
+  - [Clasificación con Bosques Aleatorios](./3%20Clasificaci%C3%B3n/random_forest_classification.ipynb)
