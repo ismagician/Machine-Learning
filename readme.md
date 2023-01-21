@@ -27,3 +27,6 @@
   - [Naïve Bayes](./3%20Clasificación/naive_bayes.ipynb)
   - [Clasificación con Árboles de Decisión](./3%20Clasificaci%C3%B3n/decision_tree_classification.ipynb)
   - [Clasificación con Bosques Aleatorios](./3%20Clasificaci%C3%B3n/random_forest_classification.ipynb)
++ [Clustering](./4%20Clustering/)
+  - [K-Means](./4%20Clustering/kmeans.ipynb)
+  - [Clustering Jerárquico](./4%20Clustering/hc.ipynb)
