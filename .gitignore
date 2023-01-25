@@ -1,2 +1,5 @@
 machinelearning-az
 *.csv
+**/__pycache__
+apyori.py
+*.tsv
