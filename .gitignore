@@ -3,3 +3,4 @@ machinelearning-az
 **/__pycache__
 apyori.py
 *.tsv
+**/dataset
